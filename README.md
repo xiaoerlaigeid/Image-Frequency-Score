@@ -40,5 +40,5 @@ The terms of use for this software are governed by the contents of the accompany
 
 ## Citation
 Zhikai Yang, et al. "Efficient Generation of Synthetic Breast CT Slices By Combining Generative and Super-Resolution Models" MICCAI DeepBreast Workshop (2024)
-
+Zhikai Yang, et al. "Combining Diffusion and Super-resolution Models for Efficient Generation of Synthetic Breast Images" https://epos.myesr.org/poster/esr/ecr2024/C-24121
 Deshpande, Rucha, et al. "Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics." ArXiv (2024).
